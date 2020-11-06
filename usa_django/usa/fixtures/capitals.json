@@ -1,0 +1,258 @@
+[
+    {"model": "usa.states",
+
+     "fields": {
+        "name": "Alabama",
+        "capital": "Montgomery"
+    }
+    }, 
+    {"model": "usa.states",
+
+    "fields": {
+        "name": "Alaska",
+        "capital": "Juneau"}
+    }, 
+    {"model": "usa.states",
+
+    "fields": {
+        "name": "Arizona",
+        "capital": "Phoenix"}
+    }, 
+    {"model": "usa.states",
+
+    "fields": {
+        "name": "Arkansas",
+        "capital": "Little Rock"}
+    }, 
+    {"model": "usa.states",
+
+    "fields": {
+        "name": "California",
+        "capital": "Sacramento"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Colorado",
+        "capital": "Denver"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Connecticut",
+        "capital": "Hartford"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Delaware",
+        "capital": "Dover"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Florida",
+        "capital": "Tallahassee"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Georgia",
+        "capital": "Atlanta"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Hawaii",
+        "capital": "Honolulu"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Idaho",
+        "capital": "Boise"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Illinois",
+        "capital": "Springfield"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Indiana",
+        "capital": "Indianapolis"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Iowa",
+        "capital": "Des Moines"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Kansas",
+        "capital": "Topeka"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Kentucky",
+        "capital": "Frankfort"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Louisiana",
+        "capital": "Baton Rouge"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Maine",
+        "capital": "Augusta"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Maryland",
+        "capital": "Annapolis"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Massachusetts",
+        "capital": "Boston"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Michigan",
+        "capital": "Lansing"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Minnesota",
+        "capital": "St. Paul"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Mississippi",
+        "capital": "Jackson"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Missouri",
+        "capital": "Jefferson City"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Montana",
+        "capital": "Helena"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Nebraska",
+        "capital": "Lincoln"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Nevada",
+        "capital": "Carson City"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "New Hampshire",
+        "capital": "Concord"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "New Jersey",
+        "capital": "Trenton"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "New Mexico",
+        "capital": "Santa Fe"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "New York",
+        "capital": "Albany"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "North Carolina",
+        "capital": "Raleigh"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "North Dakota",
+        "capital": "Bismarck"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Ohio",
+        "capital": "Columbus"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Oklahoma",
+        "capital": "Oklahoma City"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Oregon",
+        "capital": "Salem"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Pennsylvania",
+        "capital": "Harrisburg"}
+    }, 
+    { "model": "usa.states",
+        "fields": {
+        "name": "Rhode Island",
+        "capital": "Providence"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "South Carolina",
+        "capital": "Columbia"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "South Dakota",
+        "capital": "Pierre"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Tennessee",
+        "capital": "Nashville"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Texas",
+        "capital": "Austin"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Utah",
+        "capital": "Salt Lake City"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Vermont",
+        "capital": "Montpelier"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Virginia",
+        "capital": "Richmond"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Washington",
+        "capital": "Olympia"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "West Virginia",
+        "capital": "Charleston"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Wisconsin",
+        "capital": "Madison"}
+    }, 
+    {"model": "usa.states",
+    "fields": {
+        "name": "Wyoming",
+        "capital": "Cheyenne"}
+    }]
+    
